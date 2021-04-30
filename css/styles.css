@@ -1,0 +1,39 @@
+.row-header{
+    margin: 0px auto;
+    padding: 0px auto;
+    background-color: #9575cd;
+    color:aliceblue;
+}
+
+.row-content{
+    margin: 0px auto;
+    padding: 50px 0px 50px 0px; 
+    border-bottom: 1px ridge;
+    min-height:300px; 
+}
+
+.footer{
+    background-color: #9575cd;
+    color:aliceblue;
+    margin:0px 20px 0 px 20px;
+}
+
+.navbar-dark {
+    background-color: #512DA8;
+}
+.social-media{
+    text-decoration: none;
+    color:white;
+}
+.social-media:hover{
+    color:white;
+}
+
+.margin-top{
+    margin-top: 60px;
+}
+.jumbotron{
+    min-height: 250px; 
+    background-color:#9575cd;
+    color:white;
+}
