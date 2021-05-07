@@ -57,20 +57,3 @@
     border-bottom: 1px solid #ddd;
     padding: 10px;
 }
-.modal-header {
-	background: #512DA8;
-	color: floralwhite; }
-.modal-header button {
-    color: floralwhite; }
-  
-.modal-body {
-	background: #D1C4E9; }
-  
-.modal-footer {
-	background: #9575CD; }
-.modal-form-group{
-background: #454544;
-}
-.modal-body ul > li{
-	background-color:#D1C4E9;
-}
